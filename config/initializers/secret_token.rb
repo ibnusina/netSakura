@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-NetSakura::Application.config.secret_key_base = '4e0106380ce2dc1fb7a4d298c05c51ed4659965ab4e74887c0145ca505182787836126aea3f2bad0350f5dc3ebbeb80887243523e94e8a072140fb9c7b7bd36c'
+NetSakura::Application.config.secret_key_base = '9bbdd0243fd666b133d945eaacd166dbf02afd4f622e3be78fde1336e17817be2328d85b80de162fce8083950c3ff3c9fde0b07afb17e107352a6f7979616f8d'
